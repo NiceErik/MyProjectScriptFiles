@@ -7,7 +7,7 @@ public class Test1 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // Dicks and stuff adjustment 
+        // Dicks 
     }
 
     // Update is called once per frame
